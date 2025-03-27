@@ -9,8 +9,8 @@ import Image from "next/image";
 function sedap() {
   return (
     <>
-      <div className="page">
-        <Sedap />
+      {/* <div className="page"> */}
+        {/* <Sedap />
         <Link href="http://localhost:3001/user">
           <Menu img="/home.png" name="Dashboard" />
         </Link>
@@ -68,7 +68,7 @@ function sedap() {
       <Users />
       <Users />
       <Users />
-      <Users />
+      <Users /> */}
     </>
   );
 }
